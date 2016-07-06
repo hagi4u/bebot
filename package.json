@@ -1,0 +1,35 @@
+{
+  "name": "bebot",
+  "version": "1.0.0",
+  "description": "It will be a bot in my life",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-preset-es2015": "^6.9.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hagi4u/bebot.git"
+  },
+  "keywords": [
+    "bebot"
+  ],
+  "author": "MyoungHak Jeong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hagi4u/bebot/issues"
+  },
+  "homepage": "https://github.com/hagi4u/bebot#readme"
+}
